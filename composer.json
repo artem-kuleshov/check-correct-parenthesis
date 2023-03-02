@@ -1,0 +1,23 @@
+{
+    "name": "kuleshov/check-correct-parenthesis",
+    "description": "Пакет, который позволяет проверить строку на корректность закрытах и открытах скобок",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kuleshov\\CheckCorrectParenthesis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kuleshov Artem",
+            "email": "artemkul57@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=9.5.0"
+    }
+}
