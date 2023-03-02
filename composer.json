@@ -1,5 +1,5 @@
 {
-    "name": "kuleshov/check-correct-parenthesis",
+    "name": "artem-kuleshov/check-correct-parenthesis",
     "description": "Пакет, который позволяет проверить строку на корректность закрытах и открытах скобок",
     "type": "library",
     "license": "MIT",
