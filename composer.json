@@ -3,6 +3,7 @@
     "description": "Пакет, который позволяет проверить строку на корректность закрытах и открытах скобок",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Kuleshov\\CheckCorrectParenthesis\\": "src/"
@@ -19,6 +20,5 @@
     },
     "require-dev": {
         "phpunit/phpunit": ">=9.5.0"
-    },
-    "minimum-stability": "dev"
+    }
 }
